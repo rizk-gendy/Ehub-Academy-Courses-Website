@@ -1,22 +1,22 @@
 ## Project Title :
 
-IP Address Tracker
+Ehub-Academy-Courses-Website-Landing-Page
 
 ## Project Link :
-https://address-tracker.herokuapp.com/
-
+https://rizk-gendy.github.io/Ehub-Academy-Courses-Website-Landing-Page/
 
 ## Project Description
 
- "IP Address Tracker"  is a web app that lets a user enter the any IP and the app shows all the IP Data :
+ "Ehub-Academy-Courses-Website-Landing-Page"  is an education website landing page .
 
-- The city Name 
-- The Country Name 
-- The time Zone
-- The ISP
-- The Exact Location on Map 
+ Ehub Academy is an educational centre that  offers courses in various fields of engineering :
 
-also the app enable the user to get the Current IP , Current Data and current Location on map 
+- Electrical Engineering 
+- Web Developmet
+- Graphic Design 
+- Marketing
+
+also ehub Academy website is a platform that allows instructors to build online courses on their preferred topics
 
 
 
@@ -25,9 +25,10 @@ also the app enable the user to get the Current IP , Current Data and current Lo
 
 ## Why the project is useful :
 
-- the app enable the user to get the Current IP ,
- Current Data and current Location on map 
-- Get any IP data and location on map
+- Allows Students to join  courses on their preferred topics
+- Easy communications with instructors from home 
+- High Quality Courses with low Prices 
+- Allows instructors to build online courses on their preferred topics and earn money 
   
 
 
@@ -49,10 +50,6 @@ also the app enable the user to get the Current IP , Current Data and current Lo
 ```bash     
     
     
-    
-    
-    
-  
 
 ## Languages Used in the Project :
 
@@ -71,29 +68,3 @@ also the app enable the user to get the Current IP , Current Data and current Lo
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# IP-Address-Tracker
