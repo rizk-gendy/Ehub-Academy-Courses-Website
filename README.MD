@@ -47,11 +47,10 @@ also ehub Academy website is a platform that allows instructors to build online 
 ## Project Files
 ```bash
 ├── README.md - This file.
-├── design                   # Include the Project prototypes
-├── .gitigore                
+├── JS                       # Includes the Project JS Files
 ├── index.html               # The project main Html file include all the project code (html,css,JS)
-├── images                   # all app images
-├── style-guide              # the guide style
+├── images                   # all project images
+├── CSS                      # includes the project styles
 
 ```bash     
     
